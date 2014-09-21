@@ -10,4 +10,6 @@ The files of the applications are:
 
 There is a default "Height" and "Weight" value which exists while the application is run.
 
+The application is accesible in: https://kamal.shinyapps.io/DevelopDataProductsShinyAppKKM/
+
 
