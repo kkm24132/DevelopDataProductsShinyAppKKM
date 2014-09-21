@@ -1,5 +1,5 @@
-Developing Data Products Project from Coursera 
-==============================================
+Developing Data Products Project (as part of Coursera) 
+======================================================
 
 This is the repository where Developing Data Products Project assignment is located:
 The shiny application developed is a Body Mass Index Calculator.
