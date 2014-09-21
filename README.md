@@ -12,4 +12,6 @@ There is a default "Height" and "Weight" value which exists while the applicatio
 
 The application is accesible in: https://kamal.shinyapps.io/DevelopDataProductsShinyAppKKM/
 
+The presentation of the application is disigned using slidify and the presentation can be visualized in: http://kkm24132.github.io
+
 
